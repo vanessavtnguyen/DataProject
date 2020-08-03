@@ -110,9 +110,3 @@ Year,Males,Females,Total
 2015,"81,330","77,722","159,052"
 2016,"81,867","76,637","158,504"
 2017,"82,858","78,051","160,909"
-ASR age-standardised rate,,,
-Notes,,,
-1. Year refers to year of registration of death. Deaths registered in 2014 and earlier are based on the final version of cause of death data; deaths registered in 2015 are based on the revised version; deaths registered in 2016 and 2017 are based on the preliminary version. Revised and preliminary versions are subject to further revision by the Australian Bureau of Statistics.,,,
-"2. Data for 2010 have not been adjusted for the additional deaths arising from outstanding registrations of deaths in Queensland in 2010. For more details please refer to Technical note 3 in Causes of death, Australia, 2010 (ABS cat. no. 3303.0).",,,
-"3. Rates are calculated using the sum of estimated resident populations at 30 June for each year. Rates are expressed as deaths per 100,000 population. Age-standardised rates are directly standardised to the Australian estimated resident population at 30 June 2001.",,,
-Source: AIHW GRIM books (http://www.aihw.gov.au/deaths/grim-books/).,,,

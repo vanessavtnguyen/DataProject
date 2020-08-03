@@ -110,9 +110,3 @@ Years,Males,Females,Total
 2015,"565,266","335,009","900,275"
 2016,"552,523","330,634","883,157"
 2017,"552,351","330,401","882,752"
-PYLL potential years of life lost,,,
-Notes,,,
-1. Year refers to year of registration of death. Deaths registered in 2014 and earlier are based on the final version of cause of death data; deaths registered in 2015 are based on the revised version; deaths registered in 2016 and 2017 are based on the preliminary version. Revised and preliminary versions are subject to further revision by the Australian Bureau of Statistics.,,,
-"2. Potential years of life lost represents the total number of years not lived by an individual before an arbitrary upper limit to life, in this table age 75 years. From 1964 onward, PYLL is calculated based on age at death in single years. Prior to 1964, age at death in years is estimated using the midpoint of the 5 year age group (e.g. all persons age 0 to 4 are treated as age=2.5 years). PYLL is presented here in person-years.",,,
-"3. Rates are calculated using the sum of estimated resident populations at 30 June for each year. PYLL is presented here as a rate of person-years per 1,000 population under age 75 years.",,,
-Sources: AIHW National Mortality Database.,,,
