@@ -1,252 +1,244 @@
-Age group and rank,Males,,,,Females,,,,Persons,,
-,Cause of death,Number ,Per cent,Age group and rank,Cause of death,Number ,Per cent,Age group and rank,Cause of death,Number ,Per cent
-Under 1,,,,Under 1,,,,Under 1,,,
-1,"Certain conditions originating in the perinatal period, congenital malformations, deformations and chromosomal abnormalities (P00–P96, Q00–Q99 excl. P28.5)","1,314",79.8,1,"Certain conditions originating in the perinatal period, congenital malformations, deformations and chromosomal abnormalities (P00–P96, Q00–Q99 excl. P28.5)","1,034",77.6,1,"Certain conditions originating in the perinatal period, congenital malformations, deformations and chromosomal abnormalities (P00–P96, Q00–Q99 excl. P28.5)","2,348",78.8
-2,"Other ill-defined causes (R00–R94, R96–R99, I46.9, I95.9, I99, J96.0, J96.9, P28.5)",108,6.6,2,"Other ill-defined causes (R00–R94, R96–R99, I46.9, I95.9, I99, J96.0, J96.9, P28.5)",94,7.1,2,"Other ill-defined causes (R00–R94, R96–R99, I46.9, I95.9, I99, J96.0, J96.9, P28.5)",202,6.8
-3,Sudden infant death syndrome (SIDS) (R95),43,2.6,3,Sudden infant death syndrome (SIDS) (R95),39,2.9,3,Sudden infant death syndrome (SIDS) (R95),82,2.8
-4,Accidental threats to breathing (W75–W84),19,1.2,4,Influenza and pneumonia (J09–J18),14,1.1,4,Accidental threats to breathing (W75–W84),31,1.0
-5,Influenza and pneumonia (J09–J18),15,0.9,5,Cardiomyopathy (I42),13,1.0,5,Influenza and pneumonia (J09–J18),29,1.0
-6,Diseases of myoneural junction and muscle (G70–G73),11,0.7,6,Accidental threats to breathing (W75–W84),12,0.9,6,Cardiomyopathy (I42),21,0.7
-7,"Selected metabolic disorders excl. dehydration (E70–E89 excl. E86, E87)",9,0.5,7,Diseases of myoneural junction and muscle (G70–G73),10,0.8,6,Diseases of myoneural junction and muscle (G70–G73),21,0.7
-8,Cardiomyopathy (I42),8,0.5,8,Other disorders of the nervous system (G90–G99),9,0.7,8,"Selected metabolic disorders excl. dehydration (E70–E89 excl. E86, E87)",18,0.6
-8,Other disorders of the nervous system (G90–G99),8,0.5,8,Spinal muscular atrophy and related syndromes (G12),9,0.7,9,Other disorders of the nervous system (G90–G99),17,0.6
-8,Spinal muscular atrophy and related syndromes (G12),8,0.5,8,"Selected metabolic disorders excl. dehydration (E70–E89 excl. E86, E87)",9,0.7,9,Spinal muscular atrophy and related syndromes (G12),17,0.6
-11,Assault (X85–Y09),7,0.4,11,Assault (X85–Y09),7,0.5,11,Assault (X85–Y09),14,0.5
-11,Septicaemia (A40–A41),7,0.4,11,"Acute respiratory diseases excl. influenza and pneumonia (J00–J06, J20–J22)",7,0.5,12,"Acute respiratory diseases excl. influenza and pneumonia (J00–J06, J20–J22)",12,0.4
-13,Other diseases of the respiratory system (J95–J99 excl. J96),6,0.4,11,"Meningitis (A39, G00–G03)",7,0.5,12,"Meningitis (A39, G00–G03)",12,0.4
-13,Other viral diseases excl. mumps (B25–B34 excl. B26),6,0.4,14,"Benign neoplasms, in situ and uncertain behaviour (D00–D48)",5,0.4,14,Septicaemia (A40–A41),11,0.4
-15,"Meningitis (A39, G00–G03)",5,0.3,15,Septicaemia (A40–A41),4,0.3,15,Other viral diseases excl. mumps (B25–B34 excl. B26),10,0.3
-15,Land transport accidents (V01–V89),5,0.3,15,Exposure to unspecified factor (X59),4,0.3,16,Land transport accidents (V01–V89),9,0.3
-15,"Acute respiratory diseases excl. influenza and pneumonia (J00–J06, J20–J22)",5,0.3,15,Accidental drowning and submersion (W65–W74),4,0.3,16,"Benign neoplasms, in situ and uncertain behaviour (D00–D48)",9,0.3
-18,"Benign neoplasms, in situ and uncertain behaviour (D00–D48)",4,0.2,15,Land transport accidents (V01–V89),4,0.3,18,Other diseases of the respiratory system (J95–J99 excl. J96),8,0.3
-18,Intestinal infectious diseases (A00–A09),4,0.2,15,"Epilepsy and status epilepticus (G40, G41)",4,0.3,19,Exposure to unspecified factor (X59),7,0.2
-20,Exposure to unspecified factor (X59),3,0.2,15,Other viral diseases excl. mumps (B25–B34 excl. B26),4,0.3,19,Accidental drowning and submersion (W65–W74),7,0.2
-20,Accidental drowning and submersion (W65–W74),3,0.2,,,,,19,"Epilepsy and status epilepticus (G40, G41)",7,0.2
-20,"Diseases of oesophagus, stomach and duodenum (K20–K31)",3,0.2,,,,,,,,
-20,Pulmonary heart disease and diseases of pulmonary circulation (I26–I28),3,0.2,,,,,,,,
-20,"Epilepsy and status epilepticus (G40, G41)",3,0.2,,,,,,,,
-,Top 20 leading causes,"1,607",97.6,,Top 20 leading causes,"1,293",97.0,,Top 20 leading causes,"2,892",97.0
-,All causes                                                                                                                                                                              ,"1,647",100.0,,All causes                                                                                                                                                                              ,"1,333",100.0,,All causes                                                                                                                                                                              ,"2,980",100.0
-,,,,,,,,,,,
-1–14,,,,1–14,,,,1–14,,,
-1,Land transport accidents (V01–V89),101,12.8,1,"Certain conditions originating in the perinatal period, congenital malformations, deformations and chromosomal abnormalities (P00–P96, Q00–Q99 excl. P28.5)",55,9.4,1,Land transport accidents (V01–V89),153,11.1
-2,Brain cancer (C71),64,8.1,2,Land transport accidents (V01–V89),52,8.8,2,"Certain conditions originating in the perinatal period, congenital malformations, deformations and chromosomal abnormalities (P00–P96, Q00–Q99 excl. P28.5)",118,8.6
-3,"Certain conditions originating in the perinatal period, congenital malformations, deformations and chromosomal abnormalities (P00–P96, Q00–Q99 excl. P28.5)",63,8.0,3,Brain cancer (C71),42,7.1,3,Brain cancer (C71),106,7.7
-4,Accidental drowning and submersion (W65–W74),57,7.2,4,Accidental drowning and submersion (W65–W74),38,6.5,4,Accidental drowning and submersion (W65–W74),95,6.9
-5,Leukaemia (C91–C95),39,4.9,5,"Other ill-defined causes (R00–R94, R96–R99, I46.9, I95.9, I99, J96.0, J96.9, P28.5)",29,4.9,5,Leukaemia (C91–C95),66,4.8
-6,"Selected metabolic disorders excl. dehydration (E70–E89 excl. E86, E87)",35,4.4,6,Leukaemia (C91–C95),27,4.6,6,"Other ill-defined causes (R00–R94, R96–R99, I46.9, I95.9, I99, J96.0, J96.9, P28.5)",62,4.5
-7,"Other ill-defined causes (R00–R94, R96–R99, I46.9, I95.9, I99, J96.0, J96.9, P28.5)",33,4.2,7,Assault (X85–Y09),24,4.1,7,"Selected metabolic disorders excl. dehydration (E70–E89 excl. E86, E87)",58,4.2
-8,Suicide (X60–X84),30,3.8,8,Suicide (X60–X84),23,3.9,8,Suicide (X60–X84),53,3.8
-9,Assault (X85–Y09),26,3.3,8,"Selected metabolic disorders excl. dehydration (E70–E89 excl. E86, E87)",23,3.9,9,Assault (X85–Y09),50,3.6
-10,Influenza and pneumonia (J09–J18),22,2.8,10,Cerebral palsy and other paralytic syndromes (G80–G83),21,3.6,10,Cerebral palsy and other paralytic syndromes (G80–G83),40,2.9
-11,Accidental threats to breathing (W75–W84),19,2.4,11,"Epilepsy and status epilepticus (G40, G41)",17,2.9,11,Influenza and pneumonia (J09–J18),36,2.6
-11,Cerebral palsy and other paralytic syndromes (G80–G83),19,2.4,12,Influenza and pneumonia (J09–J18),14,2.4,12,"Epilepsy and status epilepticus (G40, G41)",32,2.3
-13,Malignant neoplasms of thyroid and other endocrine glands (C73–C75),18,2.3,13,Septicaemia (A40–A41),12,2.0,13,Malignant neoplasms of thyroid and other endocrine glands (C73–C75),28,2.0
-14,Asthma (J45–J46),17,2.1,14,Malignant neoplasms of bone and articular cartilage (C40–C41),11,1.9,13,Septicaemia (A40–A41),28,2.0
-15,Septicaemia (A40–A41),16,2.0,15,Other viral diseases excl. mumps (B25–B34 excl. B26),10,1.7,15,Asthma (J45–J46),27,2.0
-16,"Epilepsy and status epilepticus (G40, G41)",15,1.9,15,Asthma (J45–J46),10,1.7,16,Accidental threats to breathing (W75–W84),23,1.7
-17,Exposure to inanimate mechanical forces excl. firearms (W20–W49 excl. W32–W34),12,1.5,15,"Benign neoplasms, in situ and uncertain behaviour (D00–D48)",10,1.7,17,"Benign neoplasms, in situ and uncertain behaviour (D00–D48)",22,1.6
-17,"Benign neoplasms, in situ and uncertain behaviour (D00–D48)",12,1.5,15,Malignant neoplasms of thyroid and other endocrine glands (C73–C75),10,1.7,18,Other disorders of the nervous system (G90–G99),20,1.5
-19,Other disorders of the nervous system (G90–G99),11,1.4,19,Other disorders of the nervous system (G90–G99),9,1.5,19,Malignant neoplasms of bone and articular cartilage (C40–C41),17,1.2
-20,Event of undetermined intent (Y10–Y34),9,1.1,20,Cardiomyopathy (I42),8,1.4,20,Cardiomyopathy (I42),16,1.2
-,Top 20 leading causes,618,78.1,,Top 20 leading causes,445,75.7,,Top 20 leading causes,"1,050",76.1
-,All causes                                                                                                                                                                              ,791,100.0,,All causes                                                                                                                                                                              ,588,100.0,,All causes                                                                                                                                                                              ,"1,379",100.0
-,,,,,,,,,,,
-15–24,,,,15–24,,,,15–24,,,
-1,Suicide (X60–X84),887,36.5,1,Suicide (X60–X84),312,31.6,1,Suicide (X60–X84),"1,199",35.1
-2,Land transport accidents (V01–V89),558,23.0,2,Land transport accidents (V01–V89),180,18.3,2,Land transport accidents (V01–V89),738,21.6
-3,Accidental poisoning (X40–X49),130,5.4,3,Accidental poisoning (X40–X49),38,3.9,3,Accidental poisoning (X40–X49),168,4.9
-4,Assault (X85–Y09),60,2.5,4,"Certain conditions originating in the perinatal period, congenital malformations, deformations and chromosomal abnormalities (P00–P96, Q00–Q99 excl. P28.5)",30,3.0,4,Assault (X85–Y09),81,2.4
-5,Accidental drowning and submersion (W65–W74),56,2.3,5,Leukaemia (C91–C95),27,2.7,5,"Other ill-defined causes (R00–R94, R96–R99, I46.9, I95.9, I99, J96.0, J96.9, P28.5)",73,2.1
-6,"Other ill-defined causes (R00–R94, R96–R99, I46.9, I95.9, I99, J96.0, J96.9, P28.5)",46,1.9,5,"Other ill-defined causes (R00–R94, R96–R99, I46.9, I95.9, I99, J96.0, J96.9, P28.5)",27,2.7,6,"Certain conditions originating in the perinatal period, congenital malformations, deformations and chromosomal abnormalities (P00–P96, Q00–Q99 excl. P28.5)",69,2.0
-7,Accidental falls (W00–W19),40,1.6,7,"Epilepsy and status epilepticus (G40, G41)",26,2.6,7,Accidental drowning and submersion (W65–W74),66,1.9
-8,"Certain conditions originating in the perinatal period, congenital malformations, deformations and chromosomal abnormalities (P00–P96, Q00–Q99 excl. P28.5)",39,1.6,8,Assault (X85–Y09),21,2.1,8,"Epilepsy and status epilepticus (G40, G41)",56,1.6
-9,Malignant neoplasms of bone and articular cartilage (C40–C41),36,1.5,9,Malignant neoplasms of bone and articular cartilage (C40–C41),18,1.8,8,Leukaemia (C91–C95),56,1.6
-10,Event of undetermined intent (Y10–Y34),34,1.4,10,Cerebral palsy and other paralytic syndromes (G80–G83),17,1.7,10,Malignant neoplasms of bone and articular cartilage (C40–C41),54,1.6
-11,Cerebral palsy and other paralytic syndromes (G80–G83),32,1.3,11,Brain cancer (C71),13,1.3,11,Cerebral palsy and other paralytic syndromes (G80–G83),49,1.4
-12,"Epilepsy and status epilepticus (G40, G41)",30,1.2,11,Malignant neoplasms of mesothelial and soft tissue (C45–C49),13,1.3,12,Event of undetermined intent (Y10–Y34),45,1.3
-13,Leukaemia (C91–C95),29,1.2,13,"Selected metabolic disorders excl. dehydration (E70–E89 excl. E86, E87)",12,1.2,13,Accidental falls (W00–W19),44,1.3
-14,Diseases of myoneural junction and muscle (G70–G73),26,1.1,14,Event of undetermined intent (Y10–Y34),11,1.1,14,"Selected metabolic disorders excl. dehydration (E70–E89 excl. E86, E87)",36,1.1
-15,"Selected metabolic disorders excl. dehydration (E70–E89 excl. E86, E87)",24,1.0,15,Diabetes (E10–E14),10,1.0,15,Brain cancer (C71),35,1.0
-15,Exposure to inanimate mechanical forces excl. firearms (W20–W49 excl. W32–W34),24,1.0,15,Accidental drowning and submersion (W65–W74),10,1.0,16,Malignant neoplasms of mesothelial and soft tissue (C45–C49),31,0.9
-17,Cardiomyopathy (I42),23,0.9,15,Asthma (J45–J46),10,1.0,17,Diseases of myoneural junction and muscle (G70–G73),30,0.9
-18,Brain cancer (C71),22,0.9,15,Influenza and pneumonia (J09–J18),10,1.0,18,Cardiomyopathy (I42),29,0.8
-19,Malignant neoplasms of mesothelial and soft tissue (C45–C49),18,0.7,19,Cerebrovascular disease (I60–I69),8,0.8,19,Exposure to inanimate mechanical forces excl. firearms (W20–W49 excl. W32–W34),25,0.7
-20,Cerebrovascular disease (I60–I69),13,0.5,19,"Lymphomas (C81–C86, C96)",8,0.8,20,Asthma (J45–J46),22,0.6
-,,,,19,Liver cancer (C22),8,0.8,20,Diabetes (E10–E14),22,0.6
-,Top 20 leading causes,"2,127",87.6,,Top 20 leading causes,809,82.0,,Top 20 leading causes,"2,928",85.8
-,All causes                                                                                                                                                                              ,"2,428",100.0,,All causes                                                                                                                                                                              ,986,100.0,,All causes                                                                                                                                                                              ,"3,414",100.0
-,,,,,,,,,,,
-25–44,,,,25–44,,,,25–44,,,
-1,Suicide (X60–X84),"2,666",24.9,1,Suicide (X60–X84),786,14.2,1,Suicide (X60–X84),"3,452",21.2
-2,Accidental poisoning (X40–X49),"1,507",14.1,2,Accidental poisoning (X40–X49),512,9.2,2,Accidental poisoning (X40–X49),"2,019",12.4
-3,Land transport accidents (V01–V89),950,8.9,3,Breast cancer (C50),477,8.6,3,Land transport accidents (V01–V89),"1,199",7.4
-4,Coronary heart disease (I20–I25),622,5.8,4,Land transport accidents (V01–V89),249,4.5,4,Coronary heart disease (I20–I25),779,4.8
-5,"Other ill-defined causes (R00–R94, R96–R99, I46.9, I95.9, I99, J96.0, J96.9, P28.5)",296,2.8,5,"Colorectal cancer (C18–C20, C26.0)",209,3.8,5,Breast cancer (C50),479,2.9
-6,"Colorectal cancer (C18–C20, C26.0)",242,2.3,6,Liver disease (K70–K76),167,3.0,6,"Colorectal cancer (C18–C20, C26.0)",451,2.8
-7,Liver disease (K70–K76),236,2.2,7,Coronary heart disease (I20–I25),157,2.8,7,"Other ill-defined causes (R00–R94, R96–R99, I46.9, I95.9, I99, J96.0, J96.9, P28.5)",425,2.6
-8,Brain cancer (C71),231,2.2,8,Uterine cancer (C53–C55),154,2.8,8,Liver disease (K70–K76),403,2.5
-9,Assault (X85–Y09),213,2.0,9,Brain cancer (C71),153,2.8,9,Brain cancer (C71),384,2.4
-10,Diabetes (E10–E14),160,1.5,10,Cerebrovascular disease (I60–I69),136,2.4,10,Assault (X85–Y09),307,1.9
-11,Cardiomyopathy (I42),144,1.3,11,"Other ill-defined causes (R00–R94, R96–R99, I46.9, I95.9, I99, J96.0, J96.9, P28.5)",129,2.3,11,Cerebrovascular disease (I60–I69),276,1.7
-12,Cerebrovascular disease (I60–I69),140,1.3,12,"Lung cancer (C33, C34)",123,2.2,12,"Lung cancer (C33, C34)",263,1.6
-12,"Lung cancer (C33, C34)",140,1.3,13,Assault (X85–Y09),94,1.7,13,Diabetes (E10–E14),254,1.6
-14,Accidental drowning and submersion (W65–W74),129,1.2,13,Diabetes (E10–E14),94,1.7,14,Melanoma of the skin (C43),204,1.3
-15,Event of undetermined intent (Y10–Y34),126,1.2,15,Melanoma of the skin (C43),87,1.6,15,Cardiomyopathy (I42),195,1.2
-16,Melanoma of the skin (C43),117,1.1,16,Ovarian cancer (C56),81,1.5,16,Event of undetermined intent (Y10–Y34),189,1.2
-17,"Epilepsy and status epilepticus (G40, G41)",115,1.1,17,Leukaemia (C91–C95),72,1.3,17,"Epilepsy and status epilepticus (G40, G41)",181,1.1
-18,"Certain conditions originating in the perinatal period, congenital malformations, deformations and chromosomal abnormalities (P00–P96, Q00–Q99 excl. P28.5)",97,0.9,18,"Certain conditions originating in the perinatal period, congenital malformations, deformations and chromosomal abnormalities (P00–P96, Q00–Q99 excl. P28.5)",68,1.2,18,"Certain conditions originating in the perinatal period, congenital malformations, deformations and chromosomal abnormalities (P00–P96, Q00–Q99 excl. P28.5)",165,1.0
-19,Mental and behavioural disorders due to psychoactive substance use (F10–F19),90,0.8,18,Influenza and pneumonia (J09–J18),68,1.2,19,Uterine cancer (C53–C55),154,0.9
-19,Obesity and other hyperalimentation (E65–E68),90,0.8,20,"Epilepsy and status epilepticus (G40, G41)",66,1.2,20,Leukaemia (C91–C95),153,0.9
-,Top 20 leading causes,"8,311",77.7,,Top 20 leading causes,"3,882",69.9,,Top 20 leading causes,"11,932",73.4
-,All causes                                                                                                                                                                              ,"10,695",100.0,,All causes                                                                                                                                                                              ,"5,552",100.0,,All causes                                                                                                                                                                              ,"16,247",100.0
-,,,,,,,,,,,
-45–64,,,,45–64,,,,45–64,,,
-1,Coronary heart disease (I20–I25),"5,176",13.4,1,Breast cancer (C50),"2,735",11.4,1,Coronary heart disease (I20–I25),"6,387",10.2
-2,"Lung cancer (C33, C34)","3,115",8.1,2,"Lung cancer (C33, C34)","2,402",10.0,2,"Lung cancer (C33, C34)","5,517",8.8
-3,Suicide (X60–X84),"2,167",5.6,3,"Colorectal cancer (C18–C20, C26.0)","1,239",5.2,3,"Colorectal cancer (C18–C20, C26.0)","3,024",4.8
-4,"Colorectal cancer (C18–C20, C26.0)","1,785",4.6,4,Coronary heart disease (I20–I25),"1,211",5.0,4,Suicide (X60–X84),"2,959",4.7
-5,Liver disease (K70–K76),"1,780",4.6,5,Chronic obstructive pulmonary disease (COPD) (J40–J44),849,3.5,5,Breast cancer (C50),"2,752",4.4
-6,Liver cancer (C22),"1,248",3.2,6,Cerebrovascular disease (I60–I69),830,3.5,6,Liver disease (K70–K76),"2,538",4.0
-7,Pancreatic cancer (C25),"1,109",2.9,7,Suicide (X60–X84),792,3.3,7,Cerebrovascular disease (I60–I69),"1,922",3.1
-8,Cerebrovascular disease (I60–I69),"1,092",2.8,8,Liver disease (K70–K76),758,3.2,8,Chronic obstructive pulmonary disease (COPD) (J40–J44),"1,904",3.0
-9,Diabetes (E10–E14),"1,077",2.8,9,Pancreatic cancer (C25),724,3.0,9,Pancreatic cancer (C25),"1,833",2.9
-10,Chronic obstructive pulmonary disease (COPD) (J40–J44),"1,055",2.7,10,Ovarian cancer (C56),698,2.9,10,Diabetes (E10–E14),"1,700",2.7
-11,Accidental poisoning (X40–X49),"1,012",2.6,11,Diabetes (E10–E14),623,2.6,11,Liver cancer (C22),"1,679",2.7
-12,Brain cancer (C71),957,2.5,12,Uterine cancer (C53–C55),598,2.5,12,Accidental poisoning (X40–X49),"1,566",2.5
-13,"Cancer of unknown or ill-defined primary site (C26, C39, C76–C80 excl. C26.0)",848,2.2,13,Brain cancer (C71),572,2.4,13,Brain cancer (C71),"1,529",2.4
-14,Oesophageal cancer (C15),789,2.0,14,Accidental poisoning (X40–X49),554,2.3,14,"Cancer of unknown or ill-defined primary site (C26, C39, C76–C80 excl. C26.0)","1,397",2.2
-15,"Other ill-defined causes (R00–R94, R96–R99, I46.9, I95.9, I99, J96.0, J96.9, P28.5)",714,1.8,15,"Cancer of unknown or ill-defined primary site (C26, C39, C76–C80 excl. C26.0)",549,2.3,15,"Other ill-defined causes (R00–R94, R96–R99, I46.9, I95.9, I99, J96.0, J96.9, P28.5)","1,063",1.7
-16,Land transport accidents (V01–V89),706,1.8,16,Liver cancer (C22),431,1.8,16,Oesophageal cancer (C15),959,1.5
-17,"Malignant neoplasms of lip, oral cavity and pharynx (C00–C14)",618,1.6,17,"Other ill-defined causes (R00–R94, R96–R99, I46.9, I95.9, I99, J96.0, J96.9, P28.5)",349,1.5,17,Land transport accidents (V01–V89),949,1.5
-18,Prostate cancer (C61),602,1.6,18,Melanoma of the skin (C43),340,1.4,18,Melanoma of the skin (C43),941,1.5
-19,Melanoma of the skin (C43),601,1.6,19,Leukaemia (C91–C95),294,1.2,19,"Malignant neoplasms of lip, oral cavity and pharynx (C00–C14)",786,1.3
-20,Cardiomyopathy (I42),516,1.3,20,"Lymphomas (C81–C86, C96)",267,1.1,20,Stomach cancer (C16),774,1.2
-,Top 20 leading causes,"26,967",69.7,,Top 20 leading causes,"16,815",70.0,,Top 20 leading causes,"42,179",67.3
-,All causes                                                                                                                                                                              ,"38,673",100.0,,All causes                                                                                                                                                                              ,"24,020",100.0,,All causes                                                                                                                                                                              ,"62,693",100.0
-,,,,,,,,,,,
-65–74,,,,65–74,,,,65–74,,,
-1,Coronary heart disease (I20–I25),"5,716",12.5,1,"Lung cancer (C33, C34)","3,144",10.8,1,"Lung cancer (C33, C34)","7,885",10.5
-2,"Lung cancer (C33, C34)","4,741",10.4,2,Chronic obstructive pulmonary disease (COPD) (J40–J44),"2,074",7.1,2,Coronary heart disease (I20–I25),"7,704",10.3
-3,Chronic obstructive pulmonary disease (COPD) (J40–J44),"2,540",5.6,3,Coronary heart disease (I20–I25),"1,988",6.8,3,Chronic obstructive pulmonary disease (COPD) (J40–J44),"4,614",6.2
-4,"Colorectal cancer (C18–C20, C26.0)","2,143",4.7,4,Breast cancer (C50),"1,982",6.8,4,"Colorectal cancer (C18–C20, C26.0)","3,525",4.7
-5,Prostate cancer (C61),"1,914",4.2,5,"Colorectal cancer (C18–C20, C26.0)","1,382",4.8,5,Cerebrovascular disease (I60–I69),"3,106",4.2
-6,Cerebrovascular disease (I60–I69),"1,821",4.0,6,Cerebrovascular disease (I60–I69),"1,285",4.4,6,Diabetes (E10–E14),"2,499",3.3
-7,Diabetes (E10–E14),"1,631",3.6,7,Pancreatic cancer (C25),"1,042",3.6,7,Pancreatic cancer (C25),"2,367",3.2
-8,Pancreatic cancer (C25),"1,325",2.9,8,"Dementia and Alzheimer disease (F01, F03, G30)",873,3.0,8,Breast cancer (C50),"2,010",2.7
-9,Liver cancer (C22),"1,084",2.4,9,Diabetes (E10–E14),868,3.0,9,Prostate cancer (C61),"1,914",2.6
-10,"Cancer of unknown or ill-defined primary site (C26, C39, C76–C80 excl. C26.0)","1,063",2.3,10,Ovarian cancer (C56),801,2.8,10,"Dementia and Alzheimer disease (F01, F03, G30)","1,896",2.5
-11,"Dementia and Alzheimer disease (F01, F03, G30)","1,023",2.2,11,"Cancer of unknown or ill-defined primary site (C26, C39, C76–C80 excl. C26.0)",697,2.4,11,"Cancer of unknown or ill-defined primary site (C26, C39, C76–C80 excl. C26.0)","1,760",2.4
-12,Liver disease (K70–K76),949,2.1,12,Uterine cancer (C53–C55),597,2.1,12,Liver cancer (C22),"1,523",2.0
-13,Oesophageal cancer (C15),927,2.0,13,Leukaemia (C91–C95),466,1.6,13,Liver disease (K70–K76),"1,366",1.8
-14,Leukaemia (C91–C95),803,1.8,14,Liver cancer (C22),439,1.5,14,Leukaemia (C91–C95),"1,269",1.7
-15,"Lymphomas (C81–C86, C96)",726,1.6,15,"Lymphomas (C81–C86, C96)",428,1.5,15,Oesophageal cancer (C15),"1,191",1.6
-16,Brain cancer (C71),713,1.6,16,Brain cancer (C71),419,1.4,16,"Lymphomas (C81–C86, C96)","1,154",1.5
-17,Melanoma of the skin (C43),683,1.5,17,Liver disease (K70–K76),417,1.4,17,Brain cancer (C71),"1,132",1.5
-18,Malignant neoplasms of mesothelial and soft tissue (C45–C49),655,1.4,18,Diseases of the musculoskeletal system and connective tissue (M00–M99),337,1.2,18,Melanoma of the skin (C43),977,1.3
-19,"Malignant neoplasms of lip, oral cavity and pharynx (C00–C14)",565,1.2,19,Spinal muscular atrophy and related syndromes (G12),321,1.1,19,Malignant neoplasms of mesothelial and soft tissue (C45–C49),939,1.3
-20,Suicide (X60–X84),551,1.2,20,"Malignant immunoproliferative diseases, multiple myeloma and malignant plasma cell neoplasms (C88, C90)",318,1.1,20,Pulmonary oedema and other interstitial pulmonary diseases (J80–J84),819,1.1
-,Top 20 leading causes,"31,573",69.0,,Top 20 leading causes,"19,878",68.4,,Top 20 leading causes,"49,650",66.4
-,All causes                                                                                                                                                                              ,"45,728",100.0,,All causes                                                                                                                                                                              ,"29,043",100.0,,All causes                                                                                                                                                                              ,"74,771",100.0
-,,,,,,,,,,,
-75–84,,,,75–84,,,,75–84,,,
-1,Coronary heart disease (I20–I25),"8,669",12.7,1,"Dementia and Alzheimer disease (F01, F03, G30)","5,317",9.7,1,Coronary heart disease (I20–I25),"13,864",11.3
-2,"Lung cancer (C33, C34)","4,622",6.8,2,Coronary heart disease (I20–I25),"5,195",9.5,2,"Dementia and Alzheimer disease (F01, F03, G30)","9,588",7.8
-3,"Dementia and Alzheimer disease (F01, F03, G30)","4,271",6.3,3,Cerebrovascular disease (I60–I69),"4,339",7.9,3,Cerebrovascular disease (I60–I69),"8,370",6.8
-4,Chronic obstructive pulmonary disease (COPD) (J40–J44),"4,091",6.0,4,Chronic obstructive pulmonary disease (COPD) (J40–J44),"3,290",6.0,4,"Lung cancer (C33, C34)","7,531",6.1
-5,Cerebrovascular disease (I60–I69),"4,031",5.9,5,"Lung cancer (C33, C34)","2,909",5.3,5,Chronic obstructive pulmonary disease (COPD) (J40–J44),"7,381",6.0
-6,Prostate cancer (C61),"3,435",5.0,6,"Colorectal cancer (C18–C20, C26.0)","2,168",4.0,6,"Colorectal cancer (C18–C20, C26.0)","4,820",3.9
-7,"Colorectal cancer (C18–C20, C26.0)","2,652",3.9,7,Diabetes (E10–E14),"1,891",3.5,7,Diabetes (E10–E14),"4,342",3.5
-8,Diabetes (E10–E14),"2,451",3.6,8,Breast cancer (C50),"1,884",3.4,8,Prostate cancer (C61),"3,435",2.8
-9,Parkinson disease (G20),"1,474",2.2,9,Pancreatic cancer (C25),"1,329",2.4,9,Pancreatic cancer (C25),"2,651",2.2
-10,"Cancer of unknown or ill-defined primary site (C26, C39, C76–C80 excl. C26.0)","1,419",2.1,10,"Cancer of unknown or ill-defined primary site (C26, C39, C76–C80 excl. C26.0)","1,086",2.0,10,"Cancer of unknown or ill-defined primary site (C26, C39, C76–C80 excl. C26.0)","2,505",2.0
-11,Pancreatic cancer (C25),"1,322",1.9,11,Heart failure and complications and ill-defined heart disease (I50–I51),"1,035",1.9,11,Parkinson disease (G20),"2,228",1.8
-12,Heart failure and complications and ill-defined heart disease (I50–I51),"1,185",1.7,12,Influenza and pneumonia (J09–J18),"1,019",1.9,12,Heart failure and complications and ill-defined heart disease (I50–I51),"2,220",1.8
-13,Influenza and pneumonia (J09–J18),"1,126",1.7,13,Accidental falls (W00–W19),959,1.8,13,Influenza and pneumonia (J09–J18),"2,145",1.7
-14,Leukaemia (C91–C95),"1,114",1.6,14,Cardiac arrhythmias (I47–I49),858,1.6,14,Accidental falls (W00–W19),"1,997",1.6
-15,Accidental falls (W00–W19),"1,038",1.5,15,Kidney failure (N17–N19),816,1.5,15,Breast cancer (C50),"1,911",1.6
-16,Pulmonary oedema and other interstitial pulmonary diseases (J80–J84),976,1.4,16,Hypertensive disease (I10–I15),806,1.5,16,Leukaemia (C91–C95),"1,793",1.5
-17,Kidney failure (N17–N19),961,1.4,17,Ovarian cancer (C56),769,1.4,17,Kidney failure (N17–N19),"1,777",1.4
-18,"Lymphomas (C81–C86, C96)",917,1.3,18,Parkinson disease (G20),754,1.4,18,Cardiac arrhythmias (I47–I49),"1,636",1.3
-18,Liver cancer (C22),917,1.3,19,Leukaemia (C91–C95),679,1.2,19,Pulmonary oedema and other interstitial pulmonary diseases (J80–J84),"1,599",1.3
-20,Malignant neoplasms of mesothelial and soft tissue (C45–C49),791,1.2,20,Septicaemia (A40–A41),658,1.2,20,"Lymphomas (C81–C86, C96)","1,561",1.3
-,Top 20 leading causes,"47,462",69.7,,Top 20 leading causes,"37,761",69.0,,Top 20 leading causes,"83,354",67.9
-,All causes                                                                                                                                                                              ,"68,079",100.0,,All causes                                                                                                                                                                              ,"54,728",100.0,,All causes                                                                                                                                                                              ,"122,807",100.0
-,,,,,,,,,,,
-85–94,,,,85–94,,,,85–94,,,
-1,Coronary heart disease (I20–I25),"10,671",15.5,1,"Dementia and Alzheimer disease (F01, F03, G30)","14,694",16.0,1,Coronary heart disease (I20–I25),"23,165",14.4
-2,"Dementia and Alzheimer disease (F01, F03, G30)","7,360",10.7,2,Coronary heart disease (I20–I25),"12,494",13.6,2,"Dementia and Alzheimer disease (F01, F03, G30)","22,054",13.7
-3,Cerebrovascular disease (I60–I69),"5,049",7.3,3,Cerebrovascular disease (I60–I69),"9,395",10.2,3,Cerebrovascular disease (I60–I69),"14,444",9.0
-4,Chronic obstructive pulmonary disease (COPD) (J40–J44),"3,674",5.3,4,Chronic obstructive pulmonary disease (COPD) (J40–J44),"3,388",3.7,4,Chronic obstructive pulmonary disease (COPD) (J40–J44),"7,062",4.4
-5,Prostate cancer (C61),"3,444",5.0,5,Heart failure and complications and ill-defined heart disease (I50–I51),"3,118",3.4,5,Heart failure and complications and ill-defined heart disease (I50–I51),"5,262",3.3
-6,"Lung cancer (C33, C34)","2,198",3.2,6,Influenza and pneumonia (J09–J18),"3,043",3.3,6,Influenza and pneumonia (J09–J18),"5,157",3.2
-7,Heart failure and complications and ill-defined heart disease (I50–I51),"2,144",3.1,7,Diabetes (E10–E14),"2,673",2.9,7,Diabetes (E10–E14),"4,811",3.0
-8,Diabetes (E10–E14),"2,138",3.1,8,Cardiac arrhythmias (I47–I49),"2,581",2.8,8,Accidental falls (W00–W19),"3,963",2.5
-9,Influenza and pneumonia (J09–J18),"2,114",3.1,9,Accidental falls (W00–W19),"2,275",2.5,9,Cardiac arrhythmias (I47–I49),"3,793",2.4
-10,"Colorectal cancer (C18–C20, C26.0)","1,695",2.5,10,Hypertensive disease (I10–I15),"2,247",2.4,10,"Colorectal cancer (C18–C20, C26.0)","3,752",2.3
-11,Accidental falls (W00–W19),"1,688",2.5,11,"Colorectal cancer (C18–C20, C26.0)","2,057",2.2,11,"Lung cancer (C33, C34)","3,720",2.3
-12,Kidney failure (N17–N19),"1,436",2.1,12,Kidney failure (N17–N19),"1,793",2.0,12,Prostate cancer (C61),"3,444",2.1
-13,Parkinson disease (G20),"1,246",1.8,13,"Lung cancer (C33, C34)","1,522",1.7,13,Hypertensive disease (I10–I15),"3,282",2.0
-14,Cardiac arrhythmias (I47–I49),"1,212",1.8,14,Breast cancer (C50),"1,502",1.6,14,Kidney failure (N17–N19),"3,229",2.0
-15,Non-rheumatic valve disorders (I34–I38),"1,095",1.6,15,Non-rheumatic valve disorders (I34–I38),"1,469",1.6,15,Non-rheumatic valve disorders (I34–I38),"2,564",1.6
-16,"Cancer of unknown or ill-defined primary site (C26, C39, C76–C80 excl. C26.0)","1,043",1.5,16,"Cancer of unknown or ill-defined primary site (C26, C39, C76–C80 excl. C26.0)","1,363",1.5,16,"Cancer of unknown or ill-defined primary site (C26, C39, C76–C80 excl. C26.0)","2,406",1.5
-17,Hypertensive disease (I10–I15),"1,035",1.5,17,Septicaemia (A40–A41),"1,150",1.3,17,Parkinson disease (G20),"2,195",1.4
-18,Septicaemia (A40–A41),850,1.2,18,"Other ill-defined causes (R00–R94, R96–R99, I46.9, I95.9, I99, J96.0, J96.9, P28.5)","1,107",1.2,18,Septicaemia (A40–A41),"2,000",1.2
-19,Lung diseases due to external agents (J60–J70),802,1.2,19,Diseases of the musculoskeletal system and connective tissue (M00–M99),"1,084",1.2,19,"Other ill-defined causes (R00–R94, R96–R99, I46.9, I95.9, I99, J96.0, J96.9, P28.5)","1,646",1.0
-20,Bladder cancer (C67),761,1.1,20,Parkinson disease (G20),949,1.0,20,Diseases of the musculoskeletal system and connective tissue (M00–M99),"1,587",1.0
-,Top 20 leading causes,"51,655",75.1,,Top 20 leading causes,"69,904",76.2,,Top 20 leading causes,"119,536",74.4
-,All causes                                                                                                                                                                              ,"68,824",100.0,,All causes                                                                                                                                                                              ,"91,769",100.0,,All causes                                                                                                                                                                              ,"160,593",100.0
-,,,,,,,,,,,
-95,,,,95,,,,95,,,
-1,Coronary heart disease (I20–I25),"1,684",18.3,1,"Dementia and Alzheimer disease (F01, F03, G30)","4,524",18.6,1,"Dementia and Alzheimer disease (F01, F03, G30)","5,656",16.8
-2,"Dementia and Alzheimer disease (F01, F03, G30)","1,132",12.3,2,Coronary heart disease (I20–I25),"3,970",16.3,2,Coronary heart disease (I20–I25),"5,654",16.8
-3,Cerebrovascular disease (I60–I69),755,8.2,3,Cerebrovascular disease (I60–I69),"2,603",10.7,3,Cerebrovascular disease (I60–I69),"3,358",10.0
-4,Influenza and pneumonia (J09–J18),499,5.4,4,Influenza and pneumonia (J09–J18),"1,275",5.2,4,Influenza and pneumonia (J09–J18),"1,774",5.3
-5,Heart failure and complications and ill-defined heart disease (I50–I51),415,4.5,5,Heart failure and complications and ill-defined heart disease (I50–I51),"1,225",5.0,5,Heart failure and complications and ill-defined heart disease (I50–I51),"1,640",4.9
-6,Chronic obstructive pulmonary disease (COPD) (J40–J44),359,3.9,6,Hypertensive disease (I10–I15),887,3.6,6,Hypertensive disease (I10–I15),"1,111",3.3
-7,Prostate cancer (C61),321,3.5,7,Cardiac arrhythmias (I47–I49),676,2.8,7,Cardiac arrhythmias (I47–I49),907,2.7
-8,Accidental falls (W00–W19),264,2.9,8,Accidental falls (W00–W19),618,2.5,8,Chronic obstructive pulmonary disease (COPD) (J40–J44),897,2.7
-9,Kidney failure (N17–N19),239,2.6,9,"Other ill-defined causes (R00–R94, R96–R99, I46.9, I95.9, I99, J96.0, J96.9, P28.5)",568,2.3,9,Accidental falls (W00–W19),882,2.6
-10,Cardiac arrhythmias (I47–I49),231,2.5,10,Chronic obstructive pulmonary disease (COPD) (J40–J44),538,2.2,10,Kidney failure (N17–N19),758,2.3
-11,Hypertensive disease (I10–I15),224,2.4,11,Kidney failure (N17–N19),519,2.1,11,"Other ill-defined causes (R00–R94, R96–R99, I46.9, I95.9, I99, J96.0, J96.9, P28.5)",723,2.2
-12,Diabetes (E10–E14),166,1.8,12,Diabetes (E10–E14),491,2.0,12,Diabetes (E10–E14),657,2.0
-13,Lung diseases due to external agents (J60–J70),161,1.8,13,Non-rheumatic valve disorders (I34–I38),358,1.5,13,Non-rheumatic valve disorders (I34–I38),519,1.5
-13,Non-rheumatic valve disorders (I34–I38),161,1.8,14,Diseases of the musculoskeletal system and connective tissue (M00–M99),345,1.4,14,"Colorectal cancer (C18–C20, C26.0)",477,1.4
-15,"Other ill-defined causes (R00–R94, R96–R99, I46.9, I95.9, I99, J96.0, J96.9, P28.5)",155,1.7,15,"Colorectal cancer (C18–C20, C26.0)",336,1.4,15,Diseases of the musculoskeletal system and connective tissue (M00–M99),428,1.3
-16,"Colorectal cancer (C18–C20, C26.0)",141,1.5,16,Other urinary disorders (N30–N39),305,1.3,16,Other urinary disorders (N30–N39),407,1.2
-17,Septicaemia (A40–A41),130,1.4,17,Exposure to unspecified factor (X59),284,1.2,17,Exposure to unspecified factor (X59),377,1.1
-18,"Lung cancer (C33, C34)",106,1.2,18,Septicaemia (A40–A41),247,1.0,17,Septicaemia (A40–A41),377,1.1
-19,Other urinary disorders (N30–N39),102,1.1,19,Breast cancer (C50),231,0.9,19,Lung diseases due to external agents (J60–J70),359,1.1
-20,Exposure to unspecified factor (X59),93,1.0,20,"Cancer of unknown or ill-defined primary site (C26, C39, C76–C80 excl. C26.0)",221,0.9,20,Prostate cancer (C61),321,1.0
-,Top 20 leading causes,"7,338",79.9,,Top 20 leading causes,"20,221",82.9,,Top 20 leading causes,"27,282",81.3
-,All causes                                                                                                                                                                              ,"9,183",100.0,,All causes                                                                                                                                                                              ,"24,387",100.0,,All causes                                                                                                                                                                              ,"33,570",100.0
-,,,,,,,,,,,
-All ages,,,,All ages,,,,All ages,,,
-1,Coronary heart disease (I20–I25),"32,547",13.2,1,"Dementia and Alzheimer disease (F01, F03, G30)","25,559",11.0,1,Coronary heart disease (I20–I25),"57,566",12.0
-2,"Lung cancer (C33, C34)","14,925",6.1,2,Coronary heart disease (I20–I25),"25,019",10.8,2,"Dementia and Alzheimer disease (F01, F03, G30)","39,484",8.3
-3,"Dementia and Alzheimer disease (F01, F03, G30)","13,925",5.7,3,Cerebrovascular disease (I60–I69),"18,603",8.0,3,Cerebrovascular disease (I60–I69),"31,512",6.6
-4,Cerebrovascular disease (I60–I69),"12,909",5.2,4,"Lung cancer (C33, C34)","10,216",4.4,4,"Lung cancer (C33, C34)","25,141",5.3
-5,Chronic obstructive pulmonary disease (COPD) (J40–J44),"11,748",4.8,5,Chronic obstructive pulmonary disease (COPD) (J40–J44),"10,171",4.4,5,Chronic obstructive pulmonary disease (COPD) (J40–J44),"21,919",4.6
-6,Prostate cancer (C61),"9,719",3.9,6,Breast cancer (C50),"8,813",3.8,6,"Colorectal cancer (C18–C20, C26.0)","16,061",3.4
-7,"Colorectal cancer (C18–C20, C26.0)","8,664",3.5,7,"Colorectal cancer (C18–C20, C26.0)","7,397",3.2,7,Diabetes (E10–E14),"14,290",3.0
-8,Diabetes (E10–E14),"7,638",3.1,8,Diabetes (E10–E14),"6,652",2.9,8,Influenza and pneumonia (J09–J18),"10,671",2.2
-9,Suicide (X60–X84),"6,808",2.8,9,Influenza and pneumonia (J09–J18),"5,980",2.6,9,Heart failure and complications and ill-defined heart disease (I50–I51),"10,421",2.2
-10,Influenza and pneumonia (J09–J18),"4,691",1.9,10,Heart failure and complications and ill-defined heart disease (I50–I51),"5,838",2.5,10,Prostate cancer (C61),"9,719",2.0
-11,Heart failure and complications and ill-defined heart disease (I50–I51),"4,583",1.9,11,Cardiac arrhythmias (I47–I49),"4,374",1.9,11,Suicide (X60–X84),"9,051",1.9
-12,"Cancer of unknown or ill-defined primary site (C26, C39, C76–C80 excl. C26.0)","4,552",1.8,12,Hypertensive disease (I10–I15),"4,289",1.8,12,Breast cancer (C50),"8,899",1.9
-13,Pancreatic cancer (C25),"4,501",1.8,13,Accidental falls (W00–W19),"4,218",1.8,13,Pancreatic cancer (C25),"8,670",1.8
-14,Accidental falls (W00–W19),"3,795",1.5,14,Pancreatic cancer (C25),"4,169",1.8,14,"Cancer of unknown or ill-defined primary site (C26, C39, C76–C80 excl. C26.0)","8,539",1.8
-15,Liver disease (K70–K76),"3,709",1.5,15,"Cancer of unknown or ill-defined primary site (C26, C39, C76–C80 excl. C26.0)","3,987",1.7,15,Accidental falls (W00–W19),"8,013",1.7
-16,Liver cancer (C22),"3,694",1.5,16,Kidney failure (N17–N19),"3,513",1.5,16,Cardiac arrhythmias (I47–I49),"6,994",1.5
-17,Parkinson disease (G20),"3,313",1.3,17,"Other ill-defined causes (R00–R94, R96–R99, I46.9, I95.9, I99, J96.0, J96.9, P28.5)","2,988",1.3,17,Hypertensive disease (I10–I15),"6,849",1.4
-18,Leukaemia (C91–C95),"3,216",1.3,18,Ovarian cancer (C56),"2,856",1.2,18,Kidney failure (N17–N19),"6,703",1.4
-19,Kidney failure (N17–N19),"3,190",1.3,19,Non-rheumatic valve disorders (I34–I38),"2,669",1.1,19,"Other ill-defined causes (R00–R94, R96–R99, I46.9, I95.9, I99, J96.0, J96.9, P28.5)","5,825",1.2
-20,Land transport accidents (V01–V89),"2,935",1.2,20,Diseases of the musculoskeletal system and connective tissue (M00–M99),"2,662",1.1,20,Liver cancer (C22),"5,598",1.2
-,Top 20 leading causes,"161,062",65.5,,Top 20 leading causes,"159,973",68.8,,Top 20 leading causes,"311,925",65.2
-,All causes                                                                                                                                                                              ,"246,055",100.0,,All causes                                                                                                                                                                              ,"232,410",100.0,,All causes                                                                                                                                                                              ,"478,465",100.0
-..   not applicable,,,,,,,,,,,
-Notes,,,,,,,,,,,
-1. Year refers to year of registration of death. Deaths registered in 2014 and earlier are based on the final version of cause of death data; deaths registered in 2015 are based on the revised version; deaths registered in 2016 and 2017 are based on the preliminary version. Revised and preliminary versions are subject to further revision by the Australian Bureau of Statistics.,,,,,,,,,,,
-"2. Rates are calculated using the sum of estimated resident populations at 30 June for each year. Rates are expressed as deaths per 100,000 population.",,,,,,,,,,,
-"3. Leading causes of death are based on underlying causes of death and classified using an AIHW-modified version of Becker R, Sivli J, Ma Fat, L'Hours A, Laurenti R. 2006. A method for deriving leading causes of death. Bulletin of the World Health Organization 84: 297–304. International Statistical Classification of Diseases and Related Health Problems, 10th revision (ICD-10) codes are presented in parentheses.",,,,,,,,,,,
-Source: AIHW National Mortality Database.,,,,,,,,,,,
+Age group and rank,Cause of death,Number ,Per cent
+1,"Certain conditions originating in the perinatal period, congenital malformations, deformations and chromosomal abnormalities (P00–P96, Q00–Q99 excl. P28.5)","2,348",78.8
+2,"Other ill-defined causes (R00–R94, R96–R99, I46.9, I95.9, I99, J96.0, J96.9, P28.5)",202,6.8
+3,Sudden infant death syndrome (SIDS) (R95),82,2.8
+4,Accidental threats to breathing (W75–W84),31,1.0
+5,Influenza and pneumonia (J09–J18),29,1.0
+6,Cardiomyopathy (I42),21,0.7
+7,Diseases of myoneural junction and muscle (G70–G73),21,0.7
+8,"Selected metabolic disorders excl. dehydration (E70–E89 excl. E86, E87)",18,0.6
+8,Other disorders of the nervous system (G90–G99),17,0.6
+8,Spinal muscular atrophy and related syndromes (G12),17,0.6
+11,Assault (X85–Y09),14,0.5
+11,"Acute respiratory diseases excl. influenza and pneumonia (J00–J06, J20–J22)",12,0.4
+13,"Meningitis (A39, G00–G03)",12,0.4
+13,Septicaemia (A40–A41),11,0.4
+15,Other viral diseases excl. mumps (B25–B34 excl. B26),10,0.3
+15,Land transport accidents (V01–V89),9,0.3
+15,"Benign neoplasms, in situ and uncertain behaviour (D00–D48)",9,0.3
+18,Other diseases of the respiratory system (J95–J99 excl. J96),8,0.3
+18,Exposure to unspecified factor (X59),7,0.2
+20,Accidental drowning and submersion (W65–W74),7,0.2
+20,"Epilepsy and status epilepticus (G40, G41)",7,0.2
+20,,,
+20,,,
+20,,,
+,Top 20 leading causes,"2,892",97.0
+,All causes                                                                                                                                                                              ,"2,980",100.0
+,,,
+1–14,,,
+1,Land transport accidents (V01–V89),153,11.1
+2,"Certain conditions originating in the perinatal period, congenital malformations, deformations and chromosomal abnormalities (P00–P96, Q00–Q99 excl. P28.5)",118,8.6
+3,Brain cancer (C71),106,7.7
+4,Accidental drowning and submersion (W65–W74),95,6.9
+5,Leukaemia (C91–C95),66,4.8
+6,"Other ill-defined causes (R00–R94, R96–R99, I46.9, I95.9, I99, J96.0, J96.9, P28.5)",62,4.5
+7,"Selected metabolic disorders excl. dehydration (E70–E89 excl. E86, E87)",58,4.2
+8,Suicide (X60–X84),53,3.8
+9,Assault (X85–Y09),50,3.6
+10,Cerebral palsy and other paralytic syndromes (G80–G83),40,2.9
+11,Influenza and pneumonia (J09–J18),36,2.6
+11,"Epilepsy and status epilepticus (G40, G41)",32,2.3
+13,Malignant neoplasms of thyroid and other endocrine glands (C73–C75),28,2.0
+14,Septicaemia (A40–A41),28,2.0
+15,Asthma (J45–J46),27,2.0
+16,Accidental threats to breathing (W75–W84),23,1.7
+17,"Benign neoplasms, in situ and uncertain behaviour (D00–D48)",22,1.6
+17,Other disorders of the nervous system (G90–G99),20,1.5
+19,Malignant neoplasms of bone and articular cartilage (C40–C41),17,1.2
+20,Cardiomyopathy (I42),16,1.2
+,Top 20 leading causes,"1,050",76.1
+,All causes                                                                                                                                                                              ,"1,379",100.0
+,,,
+15–24,,,
+1,Suicide (X60–X84),"1,199",35.1
+2,Land transport accidents (V01–V89),738,21.6
+3,Accidental poisoning (X40–X49),168,4.9
+4,Assault (X85–Y09),81,2.4
+5,"Other ill-defined causes (R00–R94, R96–R99, I46.9, I95.9, I99, J96.0, J96.9, P28.5)",73,2.1
+6,"Certain conditions originating in the perinatal period, congenital malformations, deformations and chromosomal abnormalities (P00–P96, Q00–Q99 excl. P28.5)",69,2.0
+7,Accidental drowning and submersion (W65–W74),66,1.9
+8,"Epilepsy and status epilepticus (G40, G41)",56,1.6
+9,Leukaemia (C91–C95),56,1.6
+10,Malignant neoplasms of bone and articular cartilage (C40–C41),54,1.6
+11,Cerebral palsy and other paralytic syndromes (G80–G83),49,1.4
+12,Event of undetermined intent (Y10–Y34),45,1.3
+13,Accidental falls (W00–W19),44,1.3
+14,"Selected metabolic disorders excl. dehydration (E70–E89 excl. E86, E87)",36,1.1
+15,Brain cancer (C71),35,1.0
+15,Malignant neoplasms of mesothelial and soft tissue (C45–C49),31,0.9
+17,Diseases of myoneural junction and muscle (G70–G73),30,0.9
+18,Cardiomyopathy (I42),29,0.8
+19,Exposure to inanimate mechanical forces excl. firearms (W20–W49 excl. W32–W34),25,0.7
+20,Asthma (J45–J46),22,0.6
+,Diabetes (E10–E14),22,0.6
+,Top 20 leading causes,"2,928",85.8
+,All causes                                                                                                                                                                              ,"3,414",100.0
+,,,
+25–44,,,
+1,Suicide (X60–X84),"3,452",21.2
+2,Accidental poisoning (X40–X49),"2,019",12.4
+3,Land transport accidents (V01–V89),"1,199",7.4
+4,Coronary heart disease (I20–I25),779,4.8
+5,Breast cancer (C50),479,2.9
+6,"Colorectal cancer (C18–C20, C26.0)",451,2.8
+7,"Other ill-defined causes (R00–R94, R96–R99, I46.9, I95.9, I99, J96.0, J96.9, P28.5)",425,2.6
+8,Liver disease (K70–K76),403,2.5
+9,Brain cancer (C71),384,2.4
+10,Assault (X85–Y09),307,1.9
+11,Cerebrovascular disease (I60–I69),276,1.7
+12,"Lung cancer (C33, C34)",263,1.6
+12,Diabetes (E10–E14),254,1.6
+14,Melanoma of the skin (C43),204,1.3
+15,Cardiomyopathy (I42),195,1.2
+16,Event of undetermined intent (Y10–Y34),189,1.2
+17,"Epilepsy and status epilepticus (G40, G41)",181,1.1
+18,"Certain conditions originating in the perinatal period, congenital malformations, deformations and chromosomal abnormalities (P00–P96, Q00–Q99 excl. P28.5)",165,1.0
+19,Uterine cancer (C53–C55),154,0.9
+19,Leukaemia (C91–C95),153,0.9
+,Top 20 leading causes,"11,932",73.4
+,All causes                                                                                                                                                                              ,"16,247",100.0
+,,,
+45–64,,,
+1,Coronary heart disease (I20–I25),"6,387",10.2
+2,"Lung cancer (C33, C34)","5,517",8.8
+3,"Colorectal cancer (C18–C20, C26.0)","3,024",4.8
+4,Suicide (X60–X84),"2,959",4.7
+5,Breast cancer (C50),"2,752",4.4
+6,Liver disease (K70–K76),"2,538",4.0
+7,Cerebrovascular disease (I60–I69),"1,922",3.1
+8,Chronic obstructive pulmonary disease (COPD) (J40–J44),"1,904",3.0
+9,Pancreatic cancer (C25),"1,833",2.9
+10,Diabetes (E10–E14),"1,700",2.7
+11,Liver cancer (C22),"1,679",2.7
+12,Accidental poisoning (X40–X49),"1,566",2.5
+13,Brain cancer (C71),"1,529",2.4
+14,"Cancer of unknown or ill-defined primary site (C26, C39, C76–C80 excl. C26.0)","1,397",2.2
+15,"Other ill-defined causes (R00–R94, R96–R99, I46.9, I95.9, I99, J96.0, J96.9, P28.5)","1,063",1.7
+16,Oesophageal cancer (C15),959,1.5
+17,Land transport accidents (V01–V89),949,1.5
+18,Melanoma of the skin (C43),941,1.5
+19,"Malignant neoplasms of lip, oral cavity and pharynx (C00–C14)",786,1.3
+20,Stomach cancer (C16),774,1.2
+,Top 20 leading causes,"42,179",67.3
+,All causes                                                                                                                                                                              ,"62,693",100.0
+,,,
+65–74,,,
+1,"Lung cancer (C33, C34)","7,885",10.5
+2,Coronary heart disease (I20–I25),"7,704",10.3
+3,Chronic obstructive pulmonary disease (COPD) (J40–J44),"4,614",6.2
+4,"Colorectal cancer (C18–C20, C26.0)","3,525",4.7
+5,Cerebrovascular disease (I60–I69),"3,106",4.2
+6,Diabetes (E10–E14),"2,499",3.3
+7,Pancreatic cancer (C25),"2,367",3.2
+8,Breast cancer (C50),"2,010",2.7
+9,Prostate cancer (C61),"1,914",2.6
+10,"Dementia and Alzheimer disease (F01, F03, G30)","1,896",2.5
+11,"Cancer of unknown or ill-defined primary site (C26, C39, C76–C80 excl. C26.0)","1,760",2.4
+12,Liver cancer (C22),"1,523",2.0
+13,Liver disease (K70–K76),"1,366",1.8
+14,Leukaemia (C91–C95),"1,269",1.7
+15,Oesophageal cancer (C15),"1,191",1.6
+16,"Lymphomas (C81–C86, C96)","1,154",1.5
+17,Brain cancer (C71),"1,132",1.5
+18,Melanoma of the skin (C43),977,1.3
+19,Malignant neoplasms of mesothelial and soft tissue (C45–C49),939,1.3
+20,Pulmonary oedema and other interstitial pulmonary diseases (J80–J84),819,1.1
+,Top 20 leading causes,"49,650",66.4
+,All causes                                                                                                                                                                              ,"74,771",100.0
+,,,
+75–84,,,
+1,Coronary heart disease (I20–I25),"13,864",11.3
+2,"Dementia and Alzheimer disease (F01, F03, G30)","9,588",7.8
+3,Cerebrovascular disease (I60–I69),"8,370",6.8
+4,"Lung cancer (C33, C34)","7,531",6.1
+5,Chronic obstructive pulmonary disease (COPD) (J40–J44),"7,381",6.0
+6,"Colorectal cancer (C18–C20, C26.0)","4,820",3.9
+7,Diabetes (E10–E14),"4,342",3.5
+8,Prostate cancer (C61),"3,435",2.8
+9,Pancreatic cancer (C25),"2,651",2.2
+10,"Cancer of unknown or ill-defined primary site (C26, C39, C76–C80 excl. C26.0)","2,505",2.0
+11,Parkinson disease (G20),"2,228",1.8
+12,Heart failure and complications and ill-defined heart disease (I50–I51),"2,220",1.8
+13,Influenza and pneumonia (J09–J18),"2,145",1.7
+14,Accidental falls (W00–W19),"1,997",1.6
+15,Breast cancer (C50),"1,911",1.6
+16,Leukaemia (C91–C95),"1,793",1.5
+17,Kidney failure (N17–N19),"1,777",1.4
+18,Cardiac arrhythmias (I47–I49),"1,636",1.3
+18,Pulmonary oedema and other interstitial pulmonary diseases (J80–J84),"1,599",1.3
+20,"Lymphomas (C81–C86, C96)","1,561",1.3
+,Top 20 leading causes,"83,354",67.9
+,All causes                                                                                                                                                                              ,"122,807",100.0
+,,,
+85–94,,,
+1,Coronary heart disease (I20–I25),"23,165",14.4
+2,"Dementia and Alzheimer disease (F01, F03, G30)","22,054",13.7
+3,Cerebrovascular disease (I60–I69),"14,444",9.0
+4,Chronic obstructive pulmonary disease (COPD) (J40–J44),"7,062",4.4
+5,Heart failure and complications and ill-defined heart disease (I50–I51),"5,262",3.3
+6,Influenza and pneumonia (J09–J18),"5,157",3.2
+7,Diabetes (E10–E14),"4,811",3.0
+8,Accidental falls (W00–W19),"3,963",2.5
+9,Cardiac arrhythmias (I47–I49),"3,793",2.4
+10,"Colorectal cancer (C18–C20, C26.0)","3,752",2.3
+11,"Lung cancer (C33, C34)","3,720",2.3
+12,Prostate cancer (C61),"3,444",2.1
+13,Hypertensive disease (I10–I15),"3,282",2.0
+14,Kidney failure (N17–N19),"3,229",2.0
+15,Non-rheumatic valve disorders (I34–I38),"2,564",1.6
+16,"Cancer of unknown or ill-defined primary site (C26, C39, C76–C80 excl. C26.0)","2,406",1.5
+17,Parkinson disease (G20),"2,195",1.4
+18,Septicaemia (A40–A41),"2,000",1.2
+19,"Other ill-defined causes (R00–R94, R96–R99, I46.9, I95.9, I99, J96.0, J96.9, P28.5)","1,646",1.0
+20,Diseases of the musculoskeletal system and connective tissue (M00–M99),"1,587",1.0
+,Top 20 leading causes,"119,536",74.4
+,All causes                                                                                                                                                                              ,"160,593",100.0
+,,,
+95,,,
+1,"Dementia and Alzheimer disease (F01, F03, G30)","5,656",16.8
+2,Coronary heart disease (I20–I25),"5,654",16.8
+3,Cerebrovascular disease (I60–I69),"3,358",10.0
+4,Influenza and pneumonia (J09–J18),"1,774",5.3
+5,Heart failure and complications and ill-defined heart disease (I50–I51),"1,640",4.9
+6,Hypertensive disease (I10–I15),"1,111",3.3
+7,Cardiac arrhythmias (I47–I49),907,2.7
+8,Chronic obstructive pulmonary disease (COPD) (J40–J44),897,2.7
+9,Accidental falls (W00–W19),882,2.6
+10,Kidney failure (N17–N19),758,2.3
+11,"Other ill-defined causes (R00–R94, R96–R99, I46.9, I95.9, I99, J96.0, J96.9, P28.5)",723,2.2
+12,Diabetes (E10–E14),657,2.0
+13,Non-rheumatic valve disorders (I34–I38),519,1.5
+13,"Colorectal cancer (C18–C20, C26.0)",477,1.4
+15,Diseases of the musculoskeletal system and connective tissue (M00–M99),428,1.3
+16,Other urinary disorders (N30–N39),407,1.2
+17,Exposure to unspecified factor (X59),377,1.1
+18,Septicaemia (A40–A41),377,1.1
+19,Lung diseases due to external agents (J60–J70),359,1.1
+20,Prostate cancer (C61),321,1.0
+,Top 20 leading causes,"27,282",81.3
+,All causes                                                                                                                                                                              ,"33,570",100.0
+,,,
+All ages,,,
+1,Coronary heart disease (I20–I25),"57,566",12.0
+2,"Dementia and Alzheimer disease (F01, F03, G30)","39,484",8.3
+3,Cerebrovascular disease (I60–I69),"31,512",6.6
+4,"Lung cancer (C33, C34)","25,141",5.3
+5,Chronic obstructive pulmonary disease (COPD) (J40–J44),"21,919",4.6
+6,"Colorectal cancer (C18–C20, C26.0)","16,061",3.4
+7,Diabetes (E10–E14),"14,290",3.0
+8,Influenza and pneumonia (J09–J18),"10,671",2.2
+9,Heart failure and complications and ill-defined heart disease (I50–I51),"10,421",2.2
+10,Prostate cancer (C61),"9,719",2.0
+11,Suicide (X60–X84),"9,051",1.9
+12,Breast cancer (C50),"8,899",1.9
+13,Pancreatic cancer (C25),"8,670",1.8
+14,"Cancer of unknown or ill-defined primary site (C26, C39, C76–C80 excl. C26.0)","8,539",1.8
+15,Accidental falls (W00–W19),"8,013",1.7
+16,Cardiac arrhythmias (I47–I49),"6,994",1.5
+17,Hypertensive disease (I10–I15),"6,849",1.4
+18,Kidney failure (N17–N19),"6,703",1.4
+19,"Other ill-defined causes (R00–R94, R96–R99, I46.9, I95.9, I99, J96.0, J96.9, P28.5)","5,825",1.2
+20,Liver cancer (C22),"5,598",1.2
+,Top 20 leading causes,"311,925",65.2
+,All causes                                                                                                                                                                              ,"478,465",100.0
